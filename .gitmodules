@@ -1,0 +1,9 @@
+[submodule "Toyota-Innovation-Challenge"]
+	path = Toyota-Innovation-Challenge
+	url = https://github.com/mahir-mahota/Toyota-Innovation-Challenge
+[submodule "Toyota-Innovation-Challenge-2"]
+	path = Toyota-Innovation-Challenge-2
+	url = https://github.com/mahir-mahota/Toyota-Innovation-Challenge-2
+[submodule "Toyota-Innovation-Challenge-3"]
+	path = Toyota-Innovation-Challenge-3
+	url = https://github.com/mahir-mahota/Toyota-Innovation-Challenge-3
